@@ -18,7 +18,7 @@ Not fully responsive or functional yet — this is the first step in my React jo
 
 ## 📸 Output Preview
 
-![Project Screenshot](.src/assets/image.png)
+![Project Screenshot](src/assets/image.png)
 
 ---
 
